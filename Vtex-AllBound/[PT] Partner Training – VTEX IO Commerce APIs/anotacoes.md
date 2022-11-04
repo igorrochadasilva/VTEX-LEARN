@@ -1,0 +1,10 @@
+# [PT] Treinamento de parceiros - VTEX IO: APIs de comércio
+Neste treinamento você aprenderá como chamar as APIs de Commerce para criar integrações com os módulos Core da VTEX:
+
+- Core Commerce APIs da VTEX
+
+- Como usar a biblioteca @ vtex / clients
+
+– Autenticação/Autorização
+
+– Implementação

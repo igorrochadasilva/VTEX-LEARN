@@ -1,0 +1,11 @@
+{
+  "section": "other",
+  "titleId": "cashback.navigation.label",
+  "icon": "extensions-i",
+  "subSectionItems":[
+    {
+        "labelId":"cashback.navigation.label.sub.section",
+        "path": "/admin/cashback"
+    }
+  ]  
+}
